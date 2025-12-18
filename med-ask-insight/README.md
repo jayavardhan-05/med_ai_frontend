@@ -24,15 +24,6 @@ VITE_BACKEND_URL=https://your-custom-backend-url.com
 - **Chat**: `POST /chat` - Send medical questions and receive AI responses
 - **Health**: `GET /health` - Check backend service status
 
-## How can I edit this code?
-
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/57748099-ab73-4b9b-9dbf-67ce1b64e324) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
@@ -91,4 +82,5 @@ Yes, you can!
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
 Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+
 
